@@ -1,0 +1,6 @@
+{
+    "name": "hw-mode-three",
+    "author": "WithoutLogic",
+    "description": "Automaticly sets FPS Mode 3 after TP in Highwatch.",
+    "disableAutoUpdate": false
+}
